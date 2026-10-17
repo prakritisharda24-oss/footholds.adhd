@@ -1,7 +1,7 @@
 # Footholds: Tiny Wins for Busy Brains 🪜
 
 **Try the full app (with AI):** [Open on Claude](https://claude.ai/artifact/VzdJJ2V87FRAVU98a22dZj)
-**Lightweight version:** [Open on GitHub Pages](https://YOUR-USERNAME.github.io/footholds/)
+**Lightweight version:** [Open on GitHub Pages](https://github.com/prakritisharda24-oss/footholds)
 
 > AI and social features run inside Claude, so use the Claude link for the full experience. You'll need a free Claude account.
 
